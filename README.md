@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @yaz624
-
-- 函数式编程
+                                        函数式编程:
 I.definition：
 函数式编程是一种编程范式programming paradigm 就是如何编写程序的方法论。
 属于结构化编程的一种。 主要思想是把运算过程尽量写成一系列嵌套的函数调用
@@ -37,6 +35,13 @@ add(1,2).multiply(3).subtract(4)
 var s1 = 0p1();
 var s2 = 0p2();
 var s3 = concat(s1,s2);
+
+                        Metaprogramming:
+I. pros: abstraction in static languages
+        code reuse
+        limits human errors
+II. cons:
+
 
 
 
