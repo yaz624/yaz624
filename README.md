@@ -1,6 +1,6 @@
 # 👋 Hello, world! I'm Yankai Zhao  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7F7&width=500&lines=Code%2C+coffee%2C+chaos+%F0%9F%92%A1)](https://github.com/yourusername)
+[[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7F7&width=500&lines=Code%2C+coffee%2C+chaos+%F0%9F%92%A1)](https://github.com/yourusername)](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00F7F7&width=500&lines=Code%2C+coffee%2C+chaos+%F0%9F%92%A1)
 
 >  Just Do It !!!🚀 🚀 🚀 🚀 🚀 🚀  
 
