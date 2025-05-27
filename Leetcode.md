@@ -1,4 +1,4 @@
-<font color="red"> 5.26 </font>
+# <font color="red"> 5.26 </font>
 
 ##  274: H_index
 Input: citations = [3,0,6,1,5]
@@ -6,7 +6,8 @@ Output: 3
 ```
 range(start, stop, step)
 ```
-## 135: candy
+# <font color="red"> 5.27 </font>
+## 135: candy (greedy 左右双遍历)
 有几个n孩子站成一排。每个孩子都被分配了一个整数数组中的评分值ratings。您将根据以下要求向这些孩子分发糖果：
 1. 每个孩子必须至少有一颗糖果。
 2. 评分较高的孩子比邻居的孩子获得更多的糖果。
