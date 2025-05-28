@@ -44,5 +44,17 @@ class Solution:
                 (900,  "CM"), # 元组：900 → "CM"
             ]
 
-# 
+# Reverse Words 列表
     print(my_string[::-1])  # 输出: olleh (字符串反转)
+    class Solution:
+    def reverseWords(self, s: str) -> str:
+        if not s:
+            return -1
+        
+        w = s.split()
+        w.reverse()
+        output = []
+
+        for i in range(len(w)):
+            output.append(w[i])
+        return " ".join(output)
