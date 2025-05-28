@@ -33,3 +33,13 @@ class Solution:
             total += max(left[i], right [i])
         return total
 ```
+## Roman
+“键”是离散符号／非整数 → 用 dict. roman_map = {'I':1, 'V':5, …}  
+“键”是连续整数范围 → 优先用列表／数组
+            [
+                (1000, "M"),  # 元组：第一个元素是整数 1000，第二个元素是字符串 "M"
+                (900,  "CM"), # 元组：900 → "CM"
+            ]
+
+# 
+    
