@@ -58,4 +58,8 @@ class Solution:
         for i in range(len(w)):
             output.append(w[i])
         return " ".join(output)
+
+
+# Foundation         
 1. 可以用逗号分隔：print("Output:", i) 2.或者用 f-string:print(f"Output: {i}")
+   append()是Python中列表（list）的一个方法，用于在列表末尾添加新的元素。
