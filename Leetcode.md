@@ -59,6 +59,13 @@ class Solution:
             output.append(w[i])
         return " ".join(output)
 
+# 209 Minimum Size Subarray Sum:
+
+"Minimum Size Subarray Sum" 题目中的数组 nums 不保证是排序的，而且它要求的是连续子数组，这通常需要使用**滑动窗口（Sliding Window）**算法，而不是从两端向中间靠拢的双指针。
+并非所有滑动窗口问题都需要将结果变量初始化为 float('inf')。这取决于你要找的是什么：
+
+寻找“最大”值：如果你要寻找最大长度、最大和、最大数量等，那么你应该将存储最大值的变量初始化为 0 或 float('-inf')（负无穷大），以确保任何正向结果都能被记录下来。
+
 
 # Foundation         
 1. 可以用逗号分隔：print("Output:", i) 2.或者用 f-string:print(f"Output: {i}")
